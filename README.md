@@ -33,11 +33,11 @@
 
 ### Sample Table Creation
 ```sql
-CREATE TABLE PERSON (
-    person_id INT NOT NULL PRIMARY KEY AUTO_INCREMENT COMMENT 'Primary Key',
-    create_time DATETIME COMMENT 'Create Time',
-    first_name VARCHAR(255),
-    last_name VARCHAR(255)
-) COMMENT='';
+CREATE TABLE `PERSON` (
+    `person_id` int NOT NULL AUTO_INCREMENT COMMENT 'Primary Key',
+    `first_name` varchar(255) DEFAULT NULL,
+    `last_name` varchar(255) DEFAULT NULL,
+    PRIMARY KEY (`person_id`)
+) ENGINE = InnoDB DEFAULT CHARSET = utf8mb4 COLLATE = utf8mb4_0900_ai_ci
 ```
 
