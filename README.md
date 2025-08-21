@@ -38,6 +38,14 @@ CREATE TABLE `PERSON` (
     `first_name` varchar(255) DEFAULT NULL,
     `last_name` varchar(255) DEFAULT NULL,
     PRIMARY KEY (`person_id`)
-) ENGINE = InnoDB DEFAULT CHARSET = utf8mb4 COLLATE = utf8mb4_0900_ai_ci
+) COMMENT '';
+
+CREATE TABLE ADDRESS(  
+    address_id int NOT NULL PRIMARY KEY AUTO_INCREMENT COMMENT 'Primary Key',
+    person_id int NOT NULL COMMENT 'Foreign Key to PERSON table',
+    city VARCHAR(255),
+    state VARCHAR(255)
+) COMMENT '';
+
 ```
 
