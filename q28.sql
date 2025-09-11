@@ -1,0 +1,1 @@
+Write an SQL query to find all the authors that viewed at least one of thier own articles.

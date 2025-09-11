@@ -1,0 +1,1 @@
+Write an SQL Query to report the movies with an odd-numbered ID and a description that is not "Boring".

@@ -1,1 +1,1 @@
-Write an SQL query to find the cancellation rate of requests with unbanned users (both client and driver must not be banned) each day between "2013-10-01and"2013-10-03"Round cancellation rate to two decimal points.ADD
+write a SQL query to find cancellation rate of requests with unbanned users (both client and driver must not be banned)each day between "2013-10-01"and "2013-10-03".Round cancellation Rate to two decimal points.
