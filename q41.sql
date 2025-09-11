@@ -1,0 +1,1 @@
+Write an SQL query to find the ids of products that are both low fat and recyclable.

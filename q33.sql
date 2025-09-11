@@ -1,0 +1,1 @@
+Write an SQL query to find for each date, the number of different products sold and their names.

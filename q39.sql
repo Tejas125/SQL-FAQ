@@ -1,0 +1,1 @@
+Write an SQL query that will, for each user, return the number of followers.

@@ -1,0 +1,1 @@
+Write a SQL query to find the IDsof the users who visited without making any transactions and the number of times they made these visits.

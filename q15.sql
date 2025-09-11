@@ -1,0 +1,1 @@
+Write an SQL query to find the customer_number for the customer who has placed the largest number of orders. 45 days

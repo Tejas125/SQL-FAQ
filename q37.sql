@@ -1,0 +1,1 @@
+Write an SQL query to fix the names so that only the first character is upper case and the rest are lower case.

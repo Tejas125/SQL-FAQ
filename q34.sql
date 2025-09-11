@@ -1,0 +1,1 @@
+Write an SQL query to report the patient_id, patient_name and conditions of the patients who have type 1 diabetes. Type 1 diabetes always start with DIAB1 prefix.

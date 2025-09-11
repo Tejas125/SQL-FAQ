@@ -1,0 +1,1 @@
+Write an SQL query to Swap the seat id of every two consecutive students.if the number of students is odd,the id of at the last student is not swapped.

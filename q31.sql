@@ -1,0 +1,1 @@
+Write an SQL query to report the capital gain/loss for each stock. The capital gain/loss of a stock is the total gain or loss after buying and selling the stock one or many times.
